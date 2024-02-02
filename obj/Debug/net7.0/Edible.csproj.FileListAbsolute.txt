@@ -1,0 +1,15 @@
+/Users/macos/Desktop/Operator/Edible/bin/Debug/net7.0/Edible
+/Users/macos/Desktop/Operator/Edible/bin/Debug/net7.0/Edible.deps.json
+/Users/macos/Desktop/Operator/Edible/bin/Debug/net7.0/Edible.runtimeconfig.json
+/Users/macos/Desktop/Operator/Edible/bin/Debug/net7.0/Edible.dll
+/Users/macos/Desktop/Operator/Edible/bin/Debug/net7.0/Edible.pdb
+/Users/macos/Desktop/Operator/Edible/obj/Debug/net7.0/Edible.csproj.AssemblyReference.cache
+/Users/macos/Desktop/Operator/Edible/obj/Debug/net7.0/Edible.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macos/Desktop/Operator/Edible/obj/Debug/net7.0/Edible.AssemblyInfoInputs.cache
+/Users/macos/Desktop/Operator/Edible/obj/Debug/net7.0/Edible.AssemblyInfo.cs
+/Users/macos/Desktop/Operator/Edible/obj/Debug/net7.0/Edible.csproj.CoreCompileInputs.cache
+/Users/macos/Desktop/Operator/Edible/obj/Debug/net7.0/Edible.dll
+/Users/macos/Desktop/Operator/Edible/obj/Debug/net7.0/refint/Edible.dll
+/Users/macos/Desktop/Operator/Edible/obj/Debug/net7.0/Edible.pdb
+/Users/macos/Desktop/Operator/Edible/obj/Debug/net7.0/Edible.genruntimeconfig.cache
+/Users/macos/Desktop/Operator/Edible/obj/Debug/net7.0/ref/Edible.dll
